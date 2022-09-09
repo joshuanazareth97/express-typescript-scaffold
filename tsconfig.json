@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "strictPropertyInitialization": false,
+    "emitDecoratorMetadata": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "rootDir": "./",
+    "outDir": "./build",
+    "strict": true,
+    "typeRoots": ["./types"]
+  }
+}
